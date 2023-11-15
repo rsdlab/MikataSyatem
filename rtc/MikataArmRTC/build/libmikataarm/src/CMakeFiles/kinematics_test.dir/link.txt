@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/kinematics_test.dir/kinematics_test.cpp.o CMakeFiles/kinematics_test.dir/mikata.cpp.o CMakeFiles/kinematics_test.dir/kinematics.cpp.o  -o kinematics_test  -Wl,-rpath,/home/rsdlab/workspace/MikataArmRTC/build/libmikataarm/libdynamixel/src -lpthread ../libdynamixel/src/libdynamixel.so -lpthread 

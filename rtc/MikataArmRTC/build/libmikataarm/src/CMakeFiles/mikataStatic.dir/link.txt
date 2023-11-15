@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmikataStatic.a  CMakeFiles/mikataStatic.dir/mikata.cpp.o CMakeFiles/mikataStatic.dir/kinematics.cpp.o
+/usr/bin/ranlib libmikataStatic.a
