@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdynamixelStatic.a  CMakeFiles/dynamixelStatic.dir/DynamixelV1.cpp.o CMakeFiles/dynamixelStatic.dir/DynamixelV2.cpp.o
+/usr/bin/ranlib libdynamixelStatic.a
