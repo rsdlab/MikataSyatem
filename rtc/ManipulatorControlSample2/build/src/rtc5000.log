@@ -1,0 +1,28 @@
+Nov 15 07:28:01.332 INFO: manager: 2.0.1
+Nov 15 07:28:01.332 INFO: manager: Copyright (C) 2003-2022, Noriaki Ando and OpenRTM development team,
+Nov 15 07:28:01.332 INFO: manager:   Intelligent Systems Research Institute, AIST,
+Nov 15 07:28:01.332 INFO: manager: Copyright (C) 2022, Noriaki Ando and OpenRTM development team,
+Nov 15 07:28:01.332 INFO: manager:   Industrial Cyber-Physical Research Center, AIST,
+Nov 15 07:28:01.332 INFO: manager:   All right reserved.
+Nov 15 07:28:01.332 INFO: manager: Manager starting.
+Nov 15 07:28:01.332 INFO: manager: Starting local logging.
+Nov 15 07:28:01.336 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+Nov 15 07:28:01.336 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Nov 15 07:28:01.336 INFO: ManagerServant: Named manager reference (INS) was successfully created.
+Nov 15 07:28:01.336 WARNING: ManagerServant: Master manager not found
+Nov 15 07:28:01.336 INFO: LocalServiceAdmin: All the local services are enabled.
+Nov 15 07:28:01.337 INFO: ec_base: setRate(1000000.000000) done
+Nov 15 07:28:01.337 INFO: ec_base: setRate(1000.000000) done
+Nov 15 07:28:01.337 INFO: ManipulatorControlSample20: 1 execution context was created.
+Nov 15 07:28:01.337 INFO: ManipulatorControlSample20: Initial active configuration set is default.
+Nov 15 07:28:11.349 INFO: ManagerServant: Master manager not found
+Nov 15 07:28:19.709 INFO: ManipulatorCommonInterface_Common: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Common.JARA_ARM_ManipulatorCommonInterface_Common
+Nov 15 07:28:21.361 INFO: ManagerServant: Master manager not found
+Nov 15 07:28:28.873 INFO: ManipulatorCommonInterface_Middle: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Middle.JARA_ARM_ManipulatorCommonInterface_Middle
+Nov 15 07:28:31.376 INFO: ManagerServant: Master manager not found
+Nov 15 07:28:41.385 INFO: ManagerServant: Master manager not found
+Nov 15 07:28:51.393 INFO: ManagerServant: Master manager not found
+Nov 15 07:28:59.632 ERROR: ec_base: The component is not responding.
+Nov 15 07:28:59.632 ERROR: ec_base: Unknown error: Invalid state transition.
+Nov 15 07:29:01.901 INFO: ManipulatorCommonInterface_Common: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Common.JARA_ARM_ManipulatorCommonInterface_Common
+Nov 15 07:29:01.901 INFO: ManipulatorCommonInterface_Middle: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Middle.JARA_ARM_ManipulatorCommonInterface_Middle

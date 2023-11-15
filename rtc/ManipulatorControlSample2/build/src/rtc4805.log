@@ -1,0 +1,26 @@
+Nov 15 07:23:54.379 INFO: manager: 2.0.1
+Nov 15 07:23:54.379 INFO: manager: Copyright (C) 2003-2022, Noriaki Ando and OpenRTM development team,
+Nov 15 07:23:54.379 INFO: manager:   Intelligent Systems Research Institute, AIST,
+Nov 15 07:23:54.379 INFO: manager: Copyright (C) 2022, Noriaki Ando and OpenRTM development team,
+Nov 15 07:23:54.379 INFO: manager:   Industrial Cyber-Physical Research Center, AIST,
+Nov 15 07:23:54.379 INFO: manager:   All right reserved.
+Nov 15 07:23:54.379 INFO: manager: Manager starting.
+Nov 15 07:23:54.379 INFO: manager: Starting local logging.
+Nov 15 07:23:54.382 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+Nov 15 07:23:54.382 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Nov 15 07:23:54.382 INFO: ManagerServant: Named manager reference (INS) was successfully created.
+Nov 15 07:23:54.382 WARNING: ManagerServant: Master manager not found
+Nov 15 07:23:54.383 INFO: LocalServiceAdmin: All the local services are enabled.
+Nov 15 07:23:54.383 INFO: ec_base: setRate(1000000.000000) done
+Nov 15 07:23:54.383 INFO: ec_base: setRate(1000.000000) done
+Nov 15 07:23:54.383 INFO: ManipulatorControlSample20: 1 execution context was created.
+Nov 15 07:23:54.383 INFO: ManipulatorControlSample20: Initial active configuration set is default.
+Nov 15 07:24:04.402 INFO: ManagerServant: Master manager not found
+Nov 15 07:24:07.018 INFO: ManipulatorCommonInterface_Common: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Common.JARA_ARM_ManipulatorCommonInterface_Common
+Nov 15 07:24:14.417 INFO: ManagerServant: Master manager not found
+Nov 15 07:24:14.839 INFO: ManipulatorCommonInterface_Middle: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Middle.JARA_ARM_ManipulatorCommonInterface_Middle
+Nov 15 07:24:24.429 INFO: ManagerServant: Master manager not found
+Nov 15 07:24:26.330 ERROR: ec_base: The component is not responding.
+Nov 15 07:24:26.330 ERROR: ec_base: Unknown error: Invalid state transition.
+Nov 15 07:24:26.330 INFO: ManipulatorCommonInterface_Common: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Common.JARA_ARM_ManipulatorCommonInterface_Common
+Nov 15 07:24:26.330 INFO: ManipulatorCommonInterface_Middle: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Middle.JARA_ARM_ManipulatorCommonInterface_Middle

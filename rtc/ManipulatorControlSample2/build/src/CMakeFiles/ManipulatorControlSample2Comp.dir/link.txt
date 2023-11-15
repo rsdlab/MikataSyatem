@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ManipulatorControlSample2Comp.dir/ManipulatorControlSample2Comp.cpp.o CMakeFiles/ManipulatorControlSample2Comp.dir/ManipulatorControlSample2.cpp.o  -o ManipulatorControlSample2Comp  -lpthread -lRTC2 -lomniDynamic4 -lomniORB4 -lomnithread -lrtmCamera2 -lrtmManipulator2 

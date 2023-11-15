@@ -1,0 +1,24 @@
+Nov 15 07:25:46.869 INFO: manager: 2.0.1
+Nov 15 07:25:46.869 INFO: manager: Copyright (C) 2003-2022, Noriaki Ando and OpenRTM development team,
+Nov 15 07:25:46.869 INFO: manager:   Intelligent Systems Research Institute, AIST,
+Nov 15 07:25:46.869 INFO: manager: Copyright (C) 2022, Noriaki Ando and OpenRTM development team,
+Nov 15 07:25:46.869 INFO: manager:   Industrial Cyber-Physical Research Center, AIST,
+Nov 15 07:25:46.869 INFO: manager:   All right reserved.
+Nov 15 07:25:46.869 INFO: manager: Manager starting.
+Nov 15 07:25:46.869 INFO: manager: Starting local logging.
+Nov 15 07:25:46.873 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+Nov 15 07:25:46.873 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Nov 15 07:25:46.873 INFO: ManagerServant: Named manager reference (INS) was successfully created.
+Nov 15 07:25:46.873 WARNING: ManagerServant: Master manager not found
+Nov 15 07:25:46.874 INFO: LocalServiceAdmin: All the local services are enabled.
+Nov 15 07:25:46.874 INFO: ec_base: setRate(1000000.000000) done
+Nov 15 07:25:46.874 INFO: ec_base: setRate(1000.000000) done
+Nov 15 07:25:46.874 INFO: ManipulatorControlSample20: 1 execution context was created.
+Nov 15 07:25:46.874 INFO: ManipulatorControlSample20: Initial active configuration set is default.
+Nov 15 07:25:56.891 INFO: ManagerServant: Master manager not found
+Nov 15 07:25:58.747 INFO: ManipulatorCommonInterface_Common: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Common.JARA_ARM_ManipulatorCommonInterface_Common
+Nov 15 07:26:05.244 INFO: ManipulatorCommonInterface_Middle: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Middle.JARA_ARM_ManipulatorCommonInterface_Middle
+Nov 15 07:26:06.906 INFO: ManagerServant: Master manager not found
+Nov 15 07:26:16.918 INFO: ManagerServant: Master manager not found
+Nov 15 07:26:24.524 INFO: ManipulatorCommonInterface_Common: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Common.JARA_ARM_ManipulatorCommonInterface_Common
+Nov 15 07:26:24.524 INFO: ManipulatorCommonInterface_Middle: interface matched with old descriptor: port.JARA_ARM::ManipulatorCommonInterface_Middle.JARA_ARM_ManipulatorCommonInterface_Middle
