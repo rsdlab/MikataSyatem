@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/dynamixel_test.dir/test.cpp.o  -o dynamixel_test  -Wl,-rpath,/home/rsdlab/workspace/MikataSystem/rtc/MikataArmRTC/build-linux/libmikataarm/libdynamixel/src -lpthread libdynamixel.so -lpthread 
