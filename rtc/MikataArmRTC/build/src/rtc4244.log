@@ -1,0 +1,21 @@
+Nov 14 13:07:21.048 INFO: manager: 2.0.1
+Nov 14 13:07:21.048 INFO: manager: Copyright (C) 2003-2022, Noriaki Ando and OpenRTM development team,
+Nov 14 13:07:21.048 INFO: manager:   Intelligent Systems Research Institute, AIST,
+Nov 14 13:07:21.048 INFO: manager: Copyright (C) 2022, Noriaki Ando and OpenRTM development team,
+Nov 14 13:07:21.048 INFO: manager:   Industrial Cyber-Physical Research Center, AIST,
+Nov 14 13:07:21.048 INFO: manager:   All right reserved.
+Nov 14 13:07:21.048 INFO: manager: Manager starting.
+Nov 14 13:07:21.048 INFO: manager: Starting local logging.
+Nov 14 13:07:21.051 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+Nov 14 13:07:21.051 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Nov 14 13:07:21.051 INFO: ManagerServant: Named manager reference (INS) was successfully created.
+Nov 14 13:07:21.052 WARNING: ManagerServant: Master manager not found
+Nov 14 13:07:21.052 INFO: LocalServiceAdmin: All the local services are enabled.
+Nov 14 13:07:21.052 INFO: ec_base: setRate(1000000.000000) done
+Nov 14 13:07:21.052 INFO: ec_base: setRate(1000.000000) done
+Nov 14 13:07:21.052 INFO: MikataArm0: 1 execution context was created.
+Nov 14 13:07:21.053 INFO: MikataArm0: Initial active configuration set is default.
+Nov 14 13:07:31.074 INFO: ManagerServant: Master manager not found
+Nov 14 13:07:41.097 INFO: ManagerServant: Master manager not found
+Nov 14 13:07:51.111 INFO: ManagerServant: Master manager not found
+Nov 14 13:08:01.122 INFO: ManagerServant: Master manager not found

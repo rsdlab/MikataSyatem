@@ -1,0 +1,29 @@
+Nov 14 13:18:22.155 INFO: manager: 2.0.1
+Nov 14 13:18:22.155 INFO: manager: Copyright (C) 2003-2022, Noriaki Ando and OpenRTM development team,
+Nov 14 13:18:22.155 INFO: manager:   Intelligent Systems Research Institute, AIST,
+Nov 14 13:18:22.155 INFO: manager: Copyright (C) 2022, Noriaki Ando and OpenRTM development team,
+Nov 14 13:18:22.155 INFO: manager:   Industrial Cyber-Physical Research Center, AIST,
+Nov 14 13:18:22.155 INFO: manager:   All right reserved.
+Nov 14 13:18:22.155 INFO: manager: Manager starting.
+Nov 14 13:18:22.155 INFO: manager: Starting local logging.
+Nov 14 13:18:22.158 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+Nov 14 13:18:22.158 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Nov 14 13:18:22.158 INFO: ManagerServant: Named manager reference (INS) was successfully created.
+Nov 14 13:18:22.159 WARNING: ManagerServant: Master manager not found
+Nov 14 13:18:22.159 INFO: LocalServiceAdmin: All the local services are enabled.
+Nov 14 13:18:22.159 INFO: ec_base: setRate(1000000.000000) done
+Nov 14 13:18:22.159 INFO: ec_base: setRate(1000.000000) done
+Nov 14 13:18:22.159 INFO: MikataArm0: 1 execution context was created.
+Nov 14 13:18:22.160 INFO: MikataArm0: Initial active configuration set is default.
+Nov 14 13:18:32.176 INFO: ManagerServant: Master manager not found
+Nov 14 13:18:41.546 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Nov 14 13:18:42.189 INFO: ManagerServant: Master manager not found
+Nov 14 13:18:52.211 INFO: ManagerServant: Master manager not found
+Nov 14 13:19:02.230 INFO: ManagerServant: Master manager not found
+Nov 14 13:19:12.243 INFO: ManagerServant: Master manager not found
+Nov 14 13:19:22.256 INFO: ManagerServant: Master manager not found
+Nov 14 13:19:32.270 INFO: ManagerServant: Master manager not found
+Nov 14 13:19:38.496 ERROR: ec_worker: State of the RTC is not ACTIVE_STATE.
+Nov 14 13:19:42.285 INFO: ManagerServant: Master manager not found
+Nov 14 13:19:52.299 INFO: ManagerServant: Master manager not found
+Nov 14 13:20:02.312 INFO: ManagerServant: Master manager not found

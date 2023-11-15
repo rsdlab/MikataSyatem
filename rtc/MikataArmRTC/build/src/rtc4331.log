@@ -1,0 +1,26 @@
+Nov 14 13:11:16.151 INFO: manager: 2.0.1
+Nov 14 13:11:16.151 INFO: manager: Copyright (C) 2003-2022, Noriaki Ando and OpenRTM development team,
+Nov 14 13:11:16.151 INFO: manager:   Intelligent Systems Research Institute, AIST,
+Nov 14 13:11:16.151 INFO: manager: Copyright (C) 2022, Noriaki Ando and OpenRTM development team,
+Nov 14 13:11:16.151 INFO: manager:   Industrial Cyber-Physical Research Center, AIST,
+Nov 14 13:11:16.151 INFO: manager:   All right reserved.
+Nov 14 13:11:16.151 INFO: manager: Manager starting.
+Nov 14 13:11:16.151 INFO: manager: Starting local logging.
+Nov 14 13:11:16.154 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+Nov 14 13:11:16.154 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+Nov 14 13:11:16.154 INFO: ManagerServant: Named manager reference (INS) was successfully created.
+Nov 14 13:11:16.154 WARNING: ManagerServant: Master manager not found
+Nov 14 13:11:16.155 INFO: LocalServiceAdmin: All the local services are enabled.
+Nov 14 13:11:16.155 INFO: ec_base: setRate(1000000.000000) done
+Nov 14 13:11:16.155 INFO: ec_base: setRate(1000.000000) done
+Nov 14 13:11:16.155 INFO: MikataArm0: 1 execution context was created.
+Nov 14 13:11:16.155 INFO: MikataArm0: Initial active configuration set is default.
+Nov 14 13:11:25.400 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+Nov 14 13:11:26.172 INFO: ManagerServant: Master manager not found
+Nov 14 13:11:36.193 INFO: ManagerServant: Master manager not found
+Nov 14 13:11:46.212 INFO: ManagerServant: Master manager not found
+Nov 14 13:11:56.225 INFO: ManagerServant: Master manager not found
+Nov 14 13:12:06.241 INFO: ManagerServant: Master manager not found
+Nov 14 13:12:16.259 INFO: ManagerServant: Master manager not found
+Nov 14 13:12:26.274 INFO: ManagerServant: Master manager not found
+Nov 14 13:12:36.288 INFO: ManagerServant: Master manager not found
